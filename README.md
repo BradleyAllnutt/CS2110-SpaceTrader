@@ -1,2 +1,2 @@
-# CS2110-SpaceTrader
-CS2110 Collaborative Project
+# CS2340-SpaceTrader
+CS2340 Collaborative Project
